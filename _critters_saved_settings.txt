@@ -1,0 +1,16 @@
+#CSE 142 Critters saved settings
+#Wed Feb 20 11:26:04 PST 2019
+Turtle=true
+Feline=false
+Debug\ output=true
+Ocelot=false
+Vicki_vchen=false
+Elephant=false
+Lion=false
+Raccoon=false
+Height=20
+Number\ of\ each\ critter=15
+Network\ features=true
+Leopard=true
+Starfish=false
+Width=30
